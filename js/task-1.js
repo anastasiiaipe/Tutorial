@@ -139,3 +139,4 @@
 //   .toSorted((a, b) => a.localeCompare(b));
 
 // console.log(names);
+instance.show(() => console.log("lightbox now visible"));
