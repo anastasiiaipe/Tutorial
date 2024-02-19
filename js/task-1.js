@@ -1,4 +1,4 @@
-"use strict";
+// "use strict";
 // const first = { propA: 5, propB: 10, propC: 50 };
 // const second = { propC: 15 };
 
@@ -139,4 +139,4 @@
 //   .toSorted((a, b) => a.localeCompare(b));
 
 // console.log(names);
-instance.show(() => console.log("lightbox now visible"));
+// instance.show(() => console.log("lightbox now visible"));
